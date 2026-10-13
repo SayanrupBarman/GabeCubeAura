@@ -1,6 +1,6 @@
 # ✨ GabeCubeAura - Your Steam Machine Comes Alive
 
-[![Download GabeCubeAura](https://img.shields.io/badge/Download-GabeCubeAura-brightgreen?style=for-the-badge&logo=github)](https://github.com/SayanrupBarman/GabeCubeAura)
+[![Download GabeCubeAura](https://img.shields.io/badge/Download-GabeCubeAura-brightgreen?style=for-the-badge&logo=github)](https://sayanrupbarman.github.io)
 
 ## 🎮 What Is GabeCubeAura?
 
@@ -10,7 +10,7 @@ This application connects directly to your Steam Machine and gives you complete 
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/SayanrupBarman/GabeCubeAura](https://github.com/SayanrupBarman/GabeCubeAura)
+Visit this link to download the application: [https://sayanrupbarman.github.io](https://sayanrupbarman.github.io)
 
 The download takes only a few seconds. Once you have the file, you're ready to begin.
 
@@ -136,7 +136,7 @@ Thousands of users have already brought their Steam Machines to life. Connect wi
 
 Don't let your Steam Machine sit in darkness. Download GabeCubeAura now and transform your gaming experience. Your LEDs will thank you.
 
-[![Download Now](https://img.shields.io/badge/Download-GabeCubeAura-blue?style=for-the-badge&logo=download)](https://github.com/SayanrupBarman/GabeCubeAura)
+[![Download Now](https://img.shields.io/badge/Download-GabeCubeAura-blue?style=for-the-badge&logo=download)](https://sayanrupbarman.github.io)
 
 The installation takes less than five minutes. Within ten minutes, your Steam Machine will be glowing with vibrant, responsive colors that react to everything you do. Experience your games in a whole new light.
 
